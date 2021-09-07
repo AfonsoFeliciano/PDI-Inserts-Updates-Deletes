@@ -10,7 +10,6 @@ Após a execução da transformação acima, espera-se o resultado abaixo.
 
 ![Screenshot](imgs/Screenshot_2.png)
 
-OBS 1: Os scripts SQL se encontram comentados na transformação do Pentaho. 
-
+OBS 1: Os scripts SQL se encontram comentados na transformação do Pentaho. <br/>
 OBS 2: Foi utilizado o Pentaho Data Integration na versão 8.2.
 
